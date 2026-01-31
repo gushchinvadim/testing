@@ -29,4 +29,4 @@
 
 ```bash
 git clone https://github.com/gushchinvadim/testing.git
-cd testing
+cd testing# testing
